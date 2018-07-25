@@ -26,7 +26,7 @@ Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
  - [Risk and Returns: The Sharpe Ratio](https://github.com/ChristianNogueira/datacamp_projects/blob/master/risk_and_returns_the_sharpe_ratio.ipynb)
  - [Exploring the Bitcoin cryptocurrency market](https://github.com/ChristianNogueira/datacamp_projects/blob/master/exploring_the_bitcoin_cryptocurrency_market.ipynb)
  - [Word frequency in Moby Dick](https://github.com/ChristianNogueira/datacamp_projects/blob/master/word_frequency_in_moby_dick.ipynb)
- - [Bad passwords and the NIST guidelines](](https://github.com/ChristianNogueira/datacamp_projects/blob/master/bad_passwords_and_the_NIST_guidelines.ipynbd$))
+ - [Bad passwords and the NIST guidelines](https://github.com/ChristianNogueira/datacamp_projects/blob/master/bad_passwords_and_the_NIST_guidelines.ipynbd)
  - [Dr. Semmelweis and the discovery of handwashing](https://github.com/ChristianNogueira/datacamp_projects/blob/master/dr_semmelweis_and_the_discovery_of_handwashing.ipynb)
  - [Exploring the evolution of Linux](https://github.com/ChristianNogueira/datacamp_projects/blob/master/exploring_the_evolution_of_linux.ipynb)
  - [Exploring 67 years of LEGO](https://github.com/ChristianNogueira/datacamp_projects/blob/master/exploring_67_years_of_lego.ipynb)
