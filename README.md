@@ -3,6 +3,7 @@
 Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
 
 ## R Projects
+ - [Scout Your Athletics Fantasy Team](https://github.com/ChristianNogueira/datacamp_projects/blob/master/scout_your_athletics_fantasy_team.ipynb)
  - [Visualizing Inequalities in Life Expectancy](https://github.com/ChristianNogueira/datacamp_projects/blob/master/visualizing_inequalities_in_life_expectancy.ipynb)
  - [A Visual History of Nobel Prize Winners](https://github.com/ChristianNogueira/datacamp_projects/blob/master/a_visual_history_of_nobel_prize_winners.ipynb)
  - [Who Is Drunk and When in Ames, Iowa?](https://github.com/ChristianNogueira/datacamp_projects/blob/master/who_is_drunk_and_when_in_ames_iowa.ipynb)
@@ -15,7 +16,6 @@ Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
  - [Introduction to DataCamp Projects]
 
 ## Python Projects
- - [Scout Your Athletics Fantasy Team](https://github.com/ChristianNogueira/datacamp_projects/blob/master/scout_your_athletics_fantasy_team.ipynb)
  - [Generating Keywords for Google AdWords](https://github.com/ChristianNogueira/datacamp_projects/blob/master/generating_keywords_for_google_adwords.ipynb)
  - [Naïve Bees: Image Loading and Processing](https://github.com/ChristianNogueira/datacamp_projects/blob/master/naive_bees_image_loading_and_processing.ipynb)
  - [The GitHub History of the Scala Language](https://github.com/ChristianNogueira/datacamp_projects/blob/master/the_gitHub_history_of_the_scala_language.ipynb)
