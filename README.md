@@ -16,6 +16,7 @@ Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
  - [Introduction to DataCamp Projects]
 
 ## Python Projects
+ - [Naïve Bees: Predict Species from Images](https://github.com/ChristianNogueira/datacamp_projects/blob/master/naive_Bees_predict_species_from_images.ipynb)
  - [Generating Keywords for Google AdWords](https://github.com/ChristianNogueira/datacamp_projects/blob/master/generating_keywords_for_google_adwords.ipynb)
  - [Naïve Bees: Image Loading and Processing](https://github.com/ChristianNogueira/datacamp_projects/blob/master/naive_bees_image_loading_and_processing.ipynb)
  - [The GitHub History of the Scala Language](https://github.com/ChristianNogueira/datacamp_projects/blob/master/the_gitHub_history_of_the_scala_language.ipynb)
