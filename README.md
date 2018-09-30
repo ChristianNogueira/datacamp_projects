@@ -3,6 +3,7 @@
 Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
 
 ## R Projects
+ - [Rise and Fall of Programming Languages](https://github.com/ChristianNogueira/datacamp_projects/blob/master/rise_and_fall_of_programming_languages.ipynb)
  - [Predict Taxi Fares with Random Forests](https://github.com/ChristianNogueira/datacamp_projects/blob/master/predict_taxi_fares_with_random_forests.ipynb)
  - [Scout Your Athletics Fantasy Team](https://github.com/ChristianNogueira/datacamp_projects/blob/master/scout_your_athletics_fantasy_team.ipynb)
  - [Visualizing Inequalities in Life Expectancy](https://github.com/ChristianNogueira/datacamp_projects/blob/master/visualizing_inequalities_in_life_expectancy.ipynb)
