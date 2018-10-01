@@ -18,6 +18,7 @@ Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
  - [Introduction to DataCamp Projects]
 
 ## Python Projects
+ - [A Visual History of Nobel Prize Winners](https://github.com/ChristianNogueira/datacamp_projects/blob/master/a_visual_history_of_nobel_prize_winners_python.ipynb)
  - [Who Is Drunk and When in Ames, Iowa? (Python version)](https://github.com/ChristianNogueira/datacamp_projects/blob/master/who_is_drunk_and_when_in_ames_iowa_python.ipynb)
  - [Naïve Bees: Predict Species from Images](https://github.com/ChristianNogueira/datacamp_projects/blob/master/naive_Bees_predict_species_from_images.ipynb)
  - [Generating Keywords for Google AdWords](https://github.com/ChristianNogueira/datacamp_projects/blob/master/generating_keywords_for_google_adwords.ipynb)
