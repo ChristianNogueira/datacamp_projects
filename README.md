@@ -18,6 +18,7 @@ Each file is the solution to a project in [DataCamp](https://www.datacamp.com).
  - [Introduction to DataCamp Projects]
 
 ## Python Projects
+ - [Predicting Credit Card Approvals](https://github.com/ChristianNogueira/datacamp_projects/blob/master/predicting_credit_card_approvals.ipynb)
  - [Give Life, Predict Blood Donations](https://github.com/ChristianNogueira/datacamp_projects/blob/master/give_life_predict_blood_donations.ipynb)
  - [Classify songs Genres from Audio Data](https://github.com/ChristianNogueira/datacamp_projects/blob/master/classify_song_genres_from_audio_data.ipynb)
  - [A Visual History of Nobel Prize Winners](https://github.com/ChristianNogueira/datacamp_projects/blob/master/a_visual_history_of_nobel_prize_winners_python.ipynb)
